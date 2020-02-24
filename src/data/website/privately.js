@@ -12,7 +12,7 @@ export default {
             icon: './static/images/logo-minio.png',
             name: 'MinIO',
             desc: '对象存储系统',
-            link: 'http://' + addr + ':' + port_minio + '/'
+            link: 'http://' + addr + ':' + port_minio + '/minio/public/'
         },
         {
             icon: './static/images/logo-aria2.png',

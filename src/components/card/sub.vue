@@ -57,11 +57,14 @@ export default {
         ])
     },
     computed: {
-        ...mapGetters([
+
+
+    ...mapGetters([
             'favoriteList',
             'usedList'
         ])
     },
+
     components: {
         Nav
     }

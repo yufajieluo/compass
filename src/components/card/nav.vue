@@ -18,7 +18,7 @@
                         <Button icon="ios-send" @click="jumpLink(item)">跳转</Button>
                         <Button icon="md-heart" @click="addFavorite(item)">添加到我的收藏</Button>
                         <Button icon="ios-clipboard" class='btn' :data-clipboard-text="item.link" @click="copyLink"> 拷贝网址</Button>
-                        <Button icon="ios-add-circle" @click="addBookmarks(item.link, item.name)">加入书签</Button>
+                        <!--Button icon="ios-add-circle" @click="addBookmarks(item.link, item.name)">加入书签</Button-->
                         <Button icon="ios-trash" v-show="del" @click="delUrl(item)">从本项中删除</Button>
                     </ButtonGroup>
                 </div>

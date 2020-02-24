@@ -1,6 +1,6 @@
 
 <template>
-    <div class="layout">
+    <div class="layout" >
         <Layout>
             <Sider breakpoint="md" collapsible :collapsed-width="78" v-model="isCollapsed">
             <div class="logo-con">
@@ -22,7 +22,7 @@
                 </Menu>
                 <div slot="trigger"></div>
             </Sider>
-            <Layout>
+            <Layout :style="{height:windowHeight +'px'}">
             <Header class="layout-header-bar">欢迎使用
                 <Input v-model="search" placeholder="请输入内容搜搜..." class="search" @on-enter="searchData"/>
                 <span class="search-text"><Button type="primary" icon="search" @click="searchData">搜索</Button></span>
@@ -58,6 +58,10 @@ export default {
         }
     },
     computed: {
+        windowHeight: function () {
+            return window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+        },
+
         menuitemClasses: function () {
             return [
                 'menu-item',
@@ -65,6 +69,7 @@ export default {
             ]
         }
     },
+
     methods: {
         jumpAnchor (name) {
             if (document.documentElement.clientWidth <= 768 ){
