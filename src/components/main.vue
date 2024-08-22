@@ -44,7 +44,9 @@
 </template>
 <script>
 import NavSub from '@/components/card/sub'
-import Data from '@/data/data'
+// import Data from '@/data/data'
+import Data from '@/data/data.company'
+console.log('--------0',Data)
 export default {
     data () {
         return {

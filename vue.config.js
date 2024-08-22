@@ -5,7 +5,7 @@ const UglifyPlugin = require("uglifyjs-webpack-plugin");
 
 module.exports = {
     // 基本路径
-    publicPath: './',
+    publicPath: '/',
     // 输出文件目录
     outputDir: 'dist',
     // eslint-loader 是否在保存的时候检查
@@ -91,8 +91,16 @@ module.exports = {
     devServer: {
         open: process.platform === 'darwin',
         host: '0.0.0.0',
-        port: 8080,
+        port: 4430,
         https: false,
+        /*
+        https: {
+          key: require('fs').readFileSync('cert/private.key'),
+          cert: require('fs').readFileSync('cert/certificate.crt')
+        },
+        disableHostCheck: true,
+        */
+       
         hotOnly: false,
         // proxy: {
         //  // 设置代理
