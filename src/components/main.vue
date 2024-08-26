@@ -33,7 +33,7 @@
                 </Content>
                 <Footer class="layout-footer-center">
                     WShuai ©2020 Created by WShuai
-                    <a href="https://github.com/yufajieluo/ws-bigdipper" target="_blank">WS GitHub</a>
+                    <a href="https://github.com/yufajieluo/compass" target="_blank">WS GitHub</a>
                     ©Forked from Lework
                     <a href="https://github.com/lework/lenav" target="_blank">lework GitHub</a>
                 </Footer>
