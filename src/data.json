@@ -7,31 +7,31 @@
                 "icon": "./static/images/logo-wr.png",
                 "name": "Studio",
                 "desc": "studio",
-                "link": "https://cna.wrstudio.cloud/"
+                "link": "https://cna.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-vault.png",
                 "name": "Vault",
                 "desc": "vault",
-                "link": "https://vault.cna.wrstudio.cloud/"
+                "link": "https://vault.cna.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-cloudify.png",
                 "name": "Conductor",
                 "desc": "conductor",
-                "link": "https://conductor.cna.wrstudio.cloud/"
+                "link": "https://conductor.cna.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-minio.png",
                 "name": "Minio",
                 "desc": "minio",
-                "link": "https://minio.cna.wrstudio.cloud:9001/"
+                "link": "https://minio.cna.wshuai.cloud:9001/"
             },
             {
                 "icon": "./static/images/logo-harbor.png",
                 "name": "Harbor",
                 "desc": "harbor",
-                "link": "https://registry.ide.cn.wrstudio.cloud/"
+                "link": "https://registry.ide.cn.wshuai.cloud/"
             }
         ]
     },
@@ -43,31 +43,31 @@
                 "icon": "./static/images/logo-wr.png",
                 "name": "Studio",
                 "desc": "studio",
-                "link": "https://cnb.wrstudio.cloud/"
+                "link": "https://cnb.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-vault.png",
                 "name": "Vault",
                 "desc": "vault",
-                "link": "https://vault.cnb.wrstudio.cloud/"
+                "link": "https://vault.cnb.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-cloudify.png",
                 "name": "Conductor",
                 "desc": "conductor",
-                "link": "https://conductor.cnb.wrstudio.cloud/"
+                "link": "https://conductor.cnb.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-minio.png",
                 "name": "Minio",
                 "desc": "minio",
-                "link": "https://minio.cn2.wrstudio.cloud:9001/"
+                "link": "https://minio.cn2.wshuai.cloud:9001/"
             },
             {
                 "icon": "./static/images/logo-harbor.png",
                 "name": "Harbor",
                 "desc": "harbor",
-                "link": "https://registry.ide.cn.wrstudio.cloud/"
+                "link": "https://registry.ide.cn.wshuai.cloud/"
             }
         ]
     },
@@ -79,31 +79,31 @@
                 "icon": "./static/images/logo-wr.png",
                 "name": "Studio",
                 "desc": "studio",
-                "link": "https://cn2.wrstudio.cloud/"
+                "link": "https://cn2.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-vault.png",
                 "name": "Vault",
                 "desc": "vault",
-                "link": "https://vault.cn2.wrstudio.cloud/"
+                "link": "https://vault.cn2.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-cloudify.png",
                 "name": "Conductor",
                 "desc": "conductor",
-                "link": "https://conductor.cn2.wrstudio.cloud/"
+                "link": "https://conductor.cn2.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-minio.png",
                 "name": "Minio",
                 "desc": "minio",
-                "link": "https://minio.cn2.wrstudio.cloud:9001/"
+                "link": "https://minio.cn2.wshuai.cloud:9001/"
             },
             {
                 "icon": "./static/images/logo-harbor.png",
                 "name": "Harbor",
                 "desc": "harbor",
-                "link": "https://registry.ide.cn.wrstudio.cloud/"
+                "link": "https://registry.ide.cn.wshuai.cloud/"
             }
         ]
     },
@@ -115,31 +115,31 @@
                 "icon": "./static/images/logo-wr.png",
                 "name": "Studio",
                 "desc": "studio",
-                "link": "https://cn3.wrstudio.cloud/"
+                "link": "https://cn3.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-vault.png",
                 "name": "Vault",
                 "desc": "vault",
-                "link": "https://vault.cn3.wrstudio.cloud/"
+                "link": "https://vault.cn3.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-cloudify.png",
                 "name": "Conductor",
                 "desc": "conductor",
-                "link": "https://conductor.cn3.wrstudio.cloud/"
+                "link": "https://conductor.cn3.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-minio.png",
                 "name": "Minio",
                 "desc": "minio",
-                "link": "https://minio.cn3.wrstudio.cloud:9001/"
+                "link": "https://minio.cn3.wshuai.cloud:9001/"
             },
             {
                 "icon": "./static/images/logo-harbor.png",
                 "name": "Harbor",
                 "desc": "harbor",
-                "link": "https://registry.ide.cn.wrstudio.cloud/"
+                "link": "https://registry.ide.cn.wshuai.cloud/"
             }
         ]
     },
@@ -151,31 +151,31 @@
                 "icon": "./static/images/logo-wr.png",
                 "name": "Studio",
                 "desc": "studio",
-                "link": "https://stagingcn.wrstudio.cloud/"
+                "link": "https://stagingcn.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-vault.png",
                 "name": "Vault",
                 "desc": "vault",
-                "link": "https://vault.stagingcn.wrstudio.cloud/"
+                "link": "https://vault.stagingcn.wshuai.cloud/"
             },
             {
                 "icon": "./static/images/logo-cloudify.png",
                 "name": "Conductor",
                 "desc": "conductor",
-                "link": "https://128.224.158.72/"
+                "link": "https://10.10.10.10/"
             },
             {
                 "icon": "./static/images/logo-minio.png",
                 "name": "Minio",
                 "desc": "minio",
-                "link": "https://pek-studio-2.wrs.com:9101/"
+                "link": "https://pek-studio-2.wshuai.com:9101/"
             },
             {
                 "icon": "./static/images/logo-harbor.png",
                 "name": "Harbor",
                 "desc": "harbor",
-                "link": "https://registry.ide.cn.wrstudio.cloud/"
+                "link": "https://registry.ide.cn.wshuai.cloud/"
             }
         ]
     }
