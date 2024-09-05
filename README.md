@@ -3,7 +3,7 @@ May the stars guide your way.
 
 ## run compass
 ```shell
-docker_image=registry.ide.cn.wrstudio.cloud/installation/compass:v1.0.0
+docker_image=compass:v1.0.0
 docker_name=compass
 docker_mnt=/data1/compass
 
